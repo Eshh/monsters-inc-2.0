@@ -1,0 +1,8 @@
+.card-container {
+    background-color: cyan;
+    transition: all 1s ease;
+  }
+
+  .card-container:hover {
+    transform: scale(1.1);
+  }
